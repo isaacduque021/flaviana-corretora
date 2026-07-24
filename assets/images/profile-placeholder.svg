@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" fill="none">
+  <rect width="600" height="750" rx="24" fill="#1B263B"/>
+  <circle cx="300" cy="280" r="90" fill="#0D1B2A" stroke="#D4AF37" stroke-width="2"/>
+  <circle cx="300" cy="250" r="40" fill="#D4AF37" opacity="0.3"/>
+  <path d="M180 520 C180 420 240 380 300 380 C360 380 420 420 420 520" fill="#D4AF37" opacity="0.2"/>
+  <text x="300" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#D4AF37" opacity="0.6">Insira sua foto aqui</text>
+  <text x="300" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#F6E8C6" opacity="0.4">assets/images/foto-flaviana.jpg</text>
+</svg>
